@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="354d602c-607b-40a6-8fbc-8fcf1e353c46" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/arrays/MaximumDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/arrays/LeaderProblem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/arrays/LeaderProblem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/arrays/LeaderProblem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/ReverseTheArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arrays/RotateTheArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/arrays/MoveZerosToEnd.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/arrays/MoveZerosToEnd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/arrays/ReverseTheArray.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,9 +54,9 @@
     &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MaximumDifference">
-    <configuration name="LeaderProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.LeaderProblem" />
+  <component name="RunManager" selected="Application.LeaderProblem">
+    <configuration name="CheckIfArrayIsSorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.CheckIfArrayIsSorted" />
       <module name="GeekforGeeks-DSA" />
       <extension name="coverage">
         <pattern>
@@ -66,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.MaximumDifference" />
+    <configuration name="LeaderProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.LeaderProblem" />
       <module name="GeekforGeeks-DSA" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MaximumDifference" />
         <item itemvalue="Application.LeaderProblem" />
         <item itemvalue="Application.RotateTheArray" />
         <item itemvalue="Application.MoveZerosToEnd" />
         <item itemvalue="Application.ReverseTheArray" />
+        <item itemvalue="Application.CheckIfArrayIsSorted" />
       </list>
     </recent_temporary>
   </component>
